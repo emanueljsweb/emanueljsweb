@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @emanueljsweb
+- 🌱 I’m currently learning programming
